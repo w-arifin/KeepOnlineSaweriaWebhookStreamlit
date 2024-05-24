@@ -9,6 +9,7 @@ contourpy
 cycler
 et-xmlfile
 fonttools
+flask
 gitdb
 GitPython
 idna
